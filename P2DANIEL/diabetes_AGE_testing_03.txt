@@ -1,0 +1,20 @@
+Introduzca conjunto de datos o FIN para terminar la ejecución:Launching partition  0
+Test size:  154
+Train size:  614
+Test set size:  154
+Train set size:  614
+Mejor valor fitness:  0.6583876221498371 Tasa de clasificación:  0.6042345276872965  Tasa de reduccion:  0.875  Indice:  10  Cromosoma:  [0.         0.02539859 0.05884206 0.04687587 0.08408082 0.01161106
+ 0.08799978 0.65779289]
+Tiempo de ejecucion AGE BLX_alpha:  53.961341381073
+Probamos en conjunto test: 
+Mejor valor fitness:  0.6840909090909091  Tasa de clasificación:  0.6363636363636364  Tasa de reduccion:  0.875
+Mejor valor fitness:  0.5638436482084691 Tasa de clasificación:  0.5798045602605864  Tasa de reduccion:  0.5  Indice:  46  Cromosoma:  [0.82707212 0.07121589 0.555436   0.01885714 0.01227102 0.48152253
+ 0.61126603 0.08439951]
+Tiempo de ejecucion AGG BLX_alpha:  47.97266173362732
+Probamos en conjunto test: 
+Mejor valor fitness:  0.6298701298701299  Tasa de clasificación:  0.6623376623376623  Tasa de reduccion:  0.5
+Launching partition  1
+Test size:  154
+Train size:  614
+Test set size:  154
+Train set size:  614
